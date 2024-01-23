@@ -1,0 +1,6 @@
+.kart img {
+    width:280px;height:300px;}
+.products { 
+    display: grid; grid-template-columns: repeat(auto-fill,minmax(300px,1fr));}
+.kart {justify-content: center; text-align: center; margin: 30px; background-color:orange; width: 280px;}
+.navbar-brand {margin-left: 10px;}
